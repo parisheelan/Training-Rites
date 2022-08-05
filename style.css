@@ -1,0 +1,14 @@
+
+#container2{
+    border:solid 4px #a0c4fb;
+    border-radius:20px;
+    padding: 30px;
+}
+#card{
+    padding:50px 20px;
+}
+#background-image{
+    background-image:url("/assets/background-svg.svg");
+    background-repeat: no-repeat;
+    background-size:contain;
+}
